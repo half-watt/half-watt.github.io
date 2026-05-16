@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Map journal/conference abbreviations to URLs and display colors.
+# These abbreviations are used in the `abbr` field of papers.bib entries.
+# Format:
+#   "ABBR":
+#     url: https://journal-homepage-url
+#     color: "#hexcolor"
+#
+# PLACEHOLDER: Replace with the abbreviations used in your own papers.bib entries.
+"PLACEHOLDER-ABBR":
+  url: https://PLACEHOLDER-JOURNAL-URL
+  color: "#000000"
