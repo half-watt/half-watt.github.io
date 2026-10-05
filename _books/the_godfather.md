@@ -1,4 +1,5 @@
 ---
+# PLACEHOLDER: demo content — replace or delete
 layout: book-review
 title: The Godfather
 author: Mario Puzo

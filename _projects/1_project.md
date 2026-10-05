@@ -1,4 +1,5 @@
 ---
+# PLACEHOLDER: demo content — replace or delete
 layout: page
 title: project 1
 description: with background image

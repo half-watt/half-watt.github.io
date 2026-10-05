@@ -1,4 +1,5 @@
 ---
+# PLACEHOLDER: demo content — replace or delete
 layout: book-shelf
 title: bookshelf
 permalink: /books/

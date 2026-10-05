@@ -1,4 +1,5 @@
 ---
+# PLACEHOLDER: demo content — replace or delete
 layout: profiles
 permalink: /people/
 title: people

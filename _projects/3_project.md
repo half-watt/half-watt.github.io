@@ -1,4 +1,5 @@
 ---
+# PLACEHOLDER: demo content — replace or delete
 layout: page
 title: project 3 with very long name
 description: a project that redirects to another website

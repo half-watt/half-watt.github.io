@@ -76,40 +76,26 @@ cv:
         summary: "[PLACEHOLDER: proficiency level]"
 
     Interests:
-      - name: Physics
+      - name: "[PLACEHOLDER: interest area]"
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "[PLACEHOLDER: comma-separated interest keywords]"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: "[PLACEHOLDER: certificate name]"
+        date: YYYY-MM-DD
+        issuer: "[PLACEHOLDER: issuing organization]"
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: "[PLACEHOLDER: project name]"
+        summary: "[PLACEHOLDER: project summary]"
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "[PLACEHOLDER: project highlight]"
+          - "[PLACEHOLDER: project highlight]"
+        start_date: YYYY
+        end_date: YYYY
 
     References:
-      - name: Professor John Doe
+      - name: "[PLACEHOLDER: reference name]"
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: "[PLACEHOLDER: reference text]"

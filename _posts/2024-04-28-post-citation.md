@@ -1,4 +1,5 @@
 ---
+# PLACEHOLDER: demo content — replace or delete
 layout: post
 title: a post that can be cited
 date: 2024-04-28 15:06:00
